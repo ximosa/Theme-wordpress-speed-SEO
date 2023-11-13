@@ -1,3 +1,4 @@
+Esro esta desactualizado debido a los cambios de Wordpress
 Tema Rápido especial SEO
 
 El SEO está directamente relacionado con la velocidad de carga de nuestro sitio Web, este tema carga rápidamente.
